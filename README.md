@@ -40,15 +40,11 @@
 
 ## Links
 
-  https://github.com/TheKelsenator/white-sage-bundle-17
+  https://gist.github.com/TheKelsenator/3f4f6fdae9e2907392ce00f6fe4918a8
 
 ## Contribution
 
   Github [TheKelsenator](https://github.com/TheKelsenator)
-
-## Screenshots
-
- ![]()
 
 ## Contact Me
 

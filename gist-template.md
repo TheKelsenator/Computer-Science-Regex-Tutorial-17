@@ -43,7 +43,7 @@
 
 ### OR Operator
 
-  The OR Operater allows you to create regular expression patterns to match any one out of a set of alternative choices \- it uses parenthesis to control the order of operations in a pattern.
+  The OR Operator allows you to create regular expression patterns to match any one out of a set of alternative choices \- it uses parenthesis to control the order of operations in a pattern.
   <br>
   For example: 
   <br>
@@ -74,11 +74,11 @@
 
 ### Grouping and Capturing
 
-Capturing groups are a way to treat multiple characters as a single unit, they are created by placing hte characters to be grouped inside a set of parenthesis. 
+Capturing groups are a way to treat multiple characters as a single unit, they are created by placing the characters to be grouped inside a set of parenthesis. 
 ```
 /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/
 ```
-In the email regex we can see three seperate groups: 
+In the email regex we can see three separate groups: 
 ```
 /^(email user name)@(email provider).(domain extension)$/
 ```

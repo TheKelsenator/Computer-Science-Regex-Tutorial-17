@@ -15,7 +15,7 @@
 
 - [User Story](#user)
 - [Acceptance Criteria](#acceptance)
-- [Link](#link)
+- [Links](#links)
 - [Contact Me](#contact)
 
 ## User Story
@@ -36,8 +36,9 @@
   * WHEN I reach the end of the tutorial
   * THEN I find a section about the author and a link to the author’s GitHub profile
 
-## Link
+## Links
 
+  * Tutorial Link: https://gist.github.com/TheKelsenator/3f4f6fdae9e2907392ce00f6fe4918a8
   * LinkedIn Profile: https://www.linkedin.com/in/kelsey-o-kelley-23057a20b/
 
 ## Contact Me

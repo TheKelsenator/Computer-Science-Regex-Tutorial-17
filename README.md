@@ -9,15 +9,13 @@
 
 ## Description
 
-  Create a tutorial that explains how a specific regular expression, or regex, functions by breaking down each part of the expression and describing what it does.
+  The Regex Tutorial is a valuable resource designed for web development students seeking clarity on specific regular expressions (regex). Through descriptive titles, introductory paragraphs, and a comprehensive breakdown of each regex component, students can navigate the tutorial with ease and gain a deep understanding of the search pattern defined by the regex. The tutorial concludes with a section about the author, including a link to their GitHub profile, fostering further learning and collaboration within the web development community.
 
 ## Table of Contents
 
 - [User Story](#user)
 - [Acceptance Criteria](#acceptance)
-- [Links](#links)
-- [Contribution](#contribution)
-- [Screenshots](#screenshots)
+- [Link](#link)
 - [Contact Me](#contact)
 
 ## User Story
@@ -38,14 +36,10 @@
   * WHEN I reach the end of the tutorial
   * THEN I find a section about the author and a link to the author’s GitHub profile
 
-## Links
+## Link
 
-  https://gist.github.com/TheKelsenator/3f4f6fdae9e2907392ce00f6fe4918a8
-
-## Contribution
-
-  Github [TheKelsenator](https://github.com/TheKelsenator)
+  * LinkedIn Profile: https://www.linkedin.com/in/kelsey-o-kelley-23057a20b/
 
 ## Contact Me
 
-  Email [km.okelley89@gmail.com](mailto:km.okelley89@gmail..com)
+  Feel free to reach out to me via email at km.okelley89@gmail.com or through my LinkedIn.

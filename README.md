@@ -13,10 +13,10 @@
 
 ## Table of Contents
 
-- [User Story](#user)
-- [Acceptance Criteria](#acceptance)
+- [User Story](#user-story)
+- [Acceptance Criteria](#acceptance-criteria)
 - [Links](#links)
-- [Contact Me](#contact)
+- [Contact Me](#contact-me)
 
 ## User Story
 
